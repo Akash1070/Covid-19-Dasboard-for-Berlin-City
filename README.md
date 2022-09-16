@@ -8,6 +8,8 @@ You may select the districts to view and compare.
 The data are the latest official figures provided by the Berlin government, 
 
 sourced from [berlin.de](https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/tabelle-bezirke-gesamtuebersicht/).
+
+If you want to view the deployed model, click on the following link:http://localhost:8501/
 ## Authors
 
 - [@Akash Kumar Jha](https://github.com/Akash1070)
