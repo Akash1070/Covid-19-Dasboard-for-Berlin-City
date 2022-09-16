@@ -46,6 +46,12 @@ To run tests, run the following command
 ```bash
   python app.py
 ```
+## Demo
+
+[Click HERE To View App](http://localhost:8501/)
+
+## Preview
+![Click HERE To View](https://github.com/Akash1070/Covid-19-Dasboard-for-Berlin-City/blob/main/Preview.png)
 
 ## 🚀 About Me
 
