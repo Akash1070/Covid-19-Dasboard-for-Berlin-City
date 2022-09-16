@@ -1,6 +1,12 @@
 
 # **Building And Deploying Covid-19 Dashboard For Berlin On Steamlit**
 
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![matplotlib.pyplot](https://img.shields.io/badge/Library-matplotlib.pyplot-orange.svg)
+![mplcyberpunk](https://img.shields.io/badge/Library-mplcyberpunk-blue.svg)
+![Numpy](https://img.shields.io/badge/Library-numpy-red.svg)
+![streamlit](https://img.shields.io/badge/Library-streamlit-white.svg)
+
 This dashboard provides daily updates of the 7-day-incidence (number of cases per 100,000 inhabitants), the rolling 7-day-average number of new cases and the raw number of new reported Covid-19 cases.
 
 You may select the districts to view and compare.
